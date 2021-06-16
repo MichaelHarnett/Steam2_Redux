@@ -24,6 +24,6 @@ The bulk of the work for this project will be done in Python:
 </ul>
 <br>
 <br>
-<br>
+<Br>
 ## MVP Goal
 For the MVP, I would like a fully clean and tokenized set of reviews for the top 10 and bottom 10 role playing games (RPGs), based on rating. Further EDA will have to be performed to know the appropriate number of reviews per game to use. I aim to have actionable insights and understandings of what topics drive the popular games, and what topics attribute to the negative games downfall. I will then scale this up to include every genre.
