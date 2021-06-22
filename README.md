@@ -2,6 +2,7 @@
 NLP and Unsupervised Project for Metis
 This is a working notebook and is subject to change.
 <hr></hr>
+
 # Description of Files included:
 <ul>
   <li><b>prelim_testing:</b> This notebook is my first notebook used. I explored how Steam's API worked, while also testing the various NLP methods we learned, including CountVectorizer TfidfVectorizer, LSA, and NMF.</li>
