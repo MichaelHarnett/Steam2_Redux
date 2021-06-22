@@ -1,7 +1,11 @@
 # Steam2_Redux
 NLP and Unsupervised Project for Metis
+<br>
 Michael Harnet
+<br>
 2021
+<br>
+<br>
 <br>
 This is a working notebook and is subject to change.
 <hr></hr>
