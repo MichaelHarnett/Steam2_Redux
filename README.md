@@ -1,4 +1,4 @@
-# Steam2_Redux
+# Steam 2 The Redux
 NLP and Unsupervised Project for Metis
 <br>
 Michael Harnet
