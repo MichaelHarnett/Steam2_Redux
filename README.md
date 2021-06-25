@@ -24,6 +24,8 @@ For this Metis module, we are focused on natural language processing and unsuper
 
 <hr></hr>
 <hr></hr>
+
+
 ## Abstract
 <hr></hr>
 By analyzing the reviews of the most popular games offered by Steam, developers can understand the driving forces behind successful games. In addition to these insights, Steam can expand their recommendation system to expose gamers to titles they may not have looked at in the past. This would increase visibility for developers on Steam, while increasing Steam's opportunities to sell more games.
